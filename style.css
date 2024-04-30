@@ -1,0 +1,39 @@
+*{
+    background-image: linear-gradient(90deg,rgba(229, 170, 238, 1),rgba(225, 154, 230, 1));
+}
+.nav li a{
+    margin: 10px;
+    font-weight: bold;
+    
+    
+}
+.btnn button{
+    margin-right: 50px;
+    color: black;
+    border: 3px solid #AF52DE;
+    border-color: #AF52DE;
+    margin-left: 20px;
+    
+
+}
+.btnn button:hover{
+border-color: #8c15c7;
+background-color: #AF52DE;
+}
+.nav li a:hover{
+    color: purple;
+    
+}
+.color{
+    color: rgb(88, 92, 102) ;
+}
+.cl2{
+    color: #AF52DE ;
+}
+.image img{
+    width: 600px;
+    height: 400px;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+}
